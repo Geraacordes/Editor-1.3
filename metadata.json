@@ -1,0 +1,6 @@
+{
+  "name": "EDITOR DE ACORDES PARA PC",
+  "description": "A professional-grade vertical guitar chord editor with customizable colors, barre chords, and export capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
